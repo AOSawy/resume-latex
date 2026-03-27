@@ -1,0 +1,23 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.bcf
+*.blg
+*.bbl
+*.run.xml
+
+# Output PDF (optional — remove this line if you want to track the compiled PDF)
+*.pdf
+
+# Zip archives
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
